@@ -183,8 +183,8 @@ AI-Enhanced-IDS/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/AI-Enhanced-IDS.git
-cd AI-Enhanced-IDS
+git clone https://github.com/maithileekale/Cyber-Project.git
+cd Cyber-Project
 ```
 
 ### 2. Create a Virtual Environment (Recommended)
